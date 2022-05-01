@@ -1,0 +1,40 @@
+/*
+Custom Css
+*/
+
+.bg-dark {
+  background-color: #ff00a6 !important;
+}
+
+.carousel .slide {
+  background-color: #fff !important;
+}
+.carousel {
+  height: 400px;
+}
+
+.panel-food-icon {
+  margin: auto;
+  margin-top: 40px;
+  width: 95%;
+  height: 150px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  border-radius: 5px;
+}
+
+.item-panel-food-icon {
+
+margin: auto;
+margin-right: 0%;
+width: 30px;
+  display: inline;
+}
+
+.item-panel-food-icon:hover {
+  cursor: pointer;
+}
+
+.img-item-food{
+
+
+}
